@@ -2,15 +2,27 @@
 
 
 ## How to run
-'''bash
-1. conda craete -n env_name python =3.10 -y
 
+1. Create an env
 
+```bash
+conda create -n interview python=3.10 -y
+```
+
+2. Activate an env
+
+```bash
+conda activate interview
+```
 
 ### Github commands
 
-'''bash
+```bash
 1. git clone githublink
 cd proct_name
 code .
-'''
+
+2. git add .
+3. git commit -m "readme updated"
+4. git push origin main
+```
